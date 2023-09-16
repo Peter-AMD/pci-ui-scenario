@@ -74,3 +74,6 @@ After completing this project, please push any changes you made to a publicly ac
 ## NOTE
 
 1. I've updated the ag-grid base and react version to latest, thinking the issues I encountered would be fixed, but they still persist.
+
+## Deployment
+https://pci.peteramd.blue/
