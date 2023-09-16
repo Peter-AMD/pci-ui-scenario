@@ -64,3 +64,13 @@ Within this repo is a demo UI that our team needs to make some changes to before
 7. Lastly, this grid is going to go to production soon, and other developers will begin doing work on this project. While creating this demo, considerations were not made to keep the code clean and organized. Please organize this codebase so that it is easier to find and make changes to components, as well as finding any interfaces, types, or helper functions.
 
 After completing this project, please push any changes you made to a publicly accessible GitLab or GitHub repository and include that link in an email to your contact at PCI. Thank you!
+
+
+### FAILED/SKIPPED TASKS
+
+1. Scencario #2: can't filter numbers using the equal function.
+2. Scenario #5: enableRangeSelection props of AgGridReact is not available in community version.
+
+## NOTE
+
+1. I've updated the ag-grid base and react version to latest, thinking the issues I encountered would be fixed, but they still persist.
