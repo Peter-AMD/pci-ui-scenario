@@ -70,6 +70,7 @@ After completing this project, please push any changes you made to a publicly ac
 
 1. Scencario #2: can't filter numbers using the equal function.
 2. Scenario #5: enableRangeSelection props of AgGridReact is not available in community version.
+3. I apologize for not following instruction on committing every time I finish a task. I missed it the last time when I check.
 
 ## NOTE
 
